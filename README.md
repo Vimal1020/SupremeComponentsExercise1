@@ -79,4 +79,4 @@ Contributions, bug reports, and feature requests are welcome! Please follow thes
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See [LICENSE](./LICENSE) for details.
+This project is licensed under the **Vimal License**.
