@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" onLoad="Ribbon_Load">
+	<ribbon>
+		<tabs>
+			<tab id="tabSCI" label="Convert Cell">
+				<group id="groupData" label="Data Tools">
+					<button id="btnConvert"
+							label="Convert to Alphanumeric Test"
+							size="large"
+							onAction="ConvertToAlphanumeric_Click"/>
+
+					<button id="btnRevert"
+							label="Revert to Original"
+							size="large"
+							onAction="RevertToOriginal_Click" />
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>
